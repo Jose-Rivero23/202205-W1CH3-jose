@@ -1,0 +1,21 @@
+.galeria--border {
+    border-radius: 40px;
+}
+div.galeria {
+    display: flex;
+    justify-content: space-around;
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.button {
+    background-color: #dd8914; /* Green */
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 40px;
+    border-top-left-radius: 0;
+}
